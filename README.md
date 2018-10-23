@@ -41,7 +41,7 @@ To see the entirety of my capstone project copy and paste the below web browser 
 Lets start by understanding Harper's home run production by season.
 
 <p align="center">
-  <img width="700" height="700" src="plots/harper_hr_seasons.png">
+  <img width="1000" height="500" src="plots/harper_hr_seasons.png">
 </p>
 
 ### Home Run Launch Speeds (Exit Velocity) and Angles
@@ -49,7 +49,7 @@ Lets start by understanding Harper's home run production by season.
 Next we can take a look at the launch speeds and angles of each home run that Harper has produced since the 2015 season.
 
 <p align="center">
-  <img width="700" height="700" src="plots/harper_speeds_angles.png">
+  <img width="1000" height="500" src="plots/harper_speeds_angles.png">
 </p>
 
 #### Bryce Harper's Power
@@ -90,7 +90,7 @@ Lets take a look at the pitches that Harper produces his most home runs from and
     - `SL` : `Slider`
 
 <p align="center">
-  <img width="700" height="700" src="plots/hr_pitch_type.png">
+  <img width="1000" height="500" src="plots/hr_pitch_type.png">
 </p>
 
 ### Home Runs by Zone
@@ -100,7 +100,7 @@ We can also analyze which part of the of the zone Harper is hitting his home run
 <img src="https://cdn2.vox-cdn.com/assets/4655223/zone.png" style="float: left; margin: 20px; height: 100px">
 
 <p align="center">
-  <img width="700" height="700" src="plots/harper_zones.png">
+  <img width="1000" height="500" src="plots/harper_zones.png">
 </p>
 
 ### Home Runs by Batted Ball Type
@@ -114,7 +114,7 @@ Another great recorded statistic is the home run batted ball type. We can analyz
 | Less than 10 degrees | 10-25 degrees | 25-50 degrees | Greater than 50 degrees |
 
 <p align="center">
-  <img width="700" height="700" src="plots/harper_bb_type.png">
+  <img width="1000" height="500" src="plots/harper_bb_type.png">
 </p>
 
 ### Home Run Launch Speed (Exit Velocity) Correlations to various Pitch stats
@@ -128,7 +128,7 @@ Now I am going to get a little more statistical on you and analyze Harper's corr
 - `Effective Speed`: the (actual) speed of the pitch upon the ball crossing home plate
 
 <p align="center">
-  <img width="700" height="700" src="plots/launch_speed_correlations.png">
+  <img width="1000" height="500" src="plots/launch_speed_correlations.png">
 </p>
 
 ---
