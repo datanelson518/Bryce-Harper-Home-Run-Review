@@ -97,7 +97,7 @@ Lets take a look at the pitches that Harper produces his most home runs from and
 
 We can also analyze which part of the of the zone Harper is hitting his home runs and again take a look at this by season.
 
-<img width="250" height="100" src="https://cdn2.vox-cdn.com/assets/4655223/zone.png">
+<img width="250" height="250" src="https://cdn2.vox-cdn.com/assets/4655223/zone.png">
 
 <p align="center">
   <img width="1000" height="500" src="plots/harper_zones.png">
@@ -119,13 +119,26 @@ Another great recorded statistic is the home run batted ball type. We can analyz
 
 ### Home Run Launch Speed (Exit Velocity) Correlations to various Pitch stats
 
-Now I am going to get a little more statistical on you and analyze Harper's correlations against some specific pitch specific statistics.
+Now I am going to get a little more statistical on you and analyze Harper's correlations against some specific pitch statistics.
 
 **Pitch Stats:**
 - `Release Speed`: the (perceived) speed of the pitch upon release from the pitcher
 - `Release Spin Rate`: how much spin, in revolutions per minute, a pitch was thrown with upon release.
 - `Release Extension`: how far off the mound, in feet, a pitcher releases the pitch.
 - `Effective Speed`: the (actual) speed of the pitch upon the ball crossing home plate
+
+1. Release Speed:
+    - A weak positive correlation. Meaning that as the release speed of the pitch increases so will the exit velocity of Harper's home runs. It's a very low correlation meaning that this stat against velocity is not going to provide a whole lot of valuable insight into exit velocity.
+2. Release Spin Rate:
+    - A weak postive correlation. Meaning that as the release spin rate of the pitch increase so the the exit velocity of Harper's home runs. It's larger than the Release Speed correlation but still quite low and won't provide very much value into the exit velocity.
+3. Release Extension:
+    - A weak negative correlation. Meaning that as the release extension of the pitch increases the exit velocity of Harper's home runs will decrease. Still a low value but it's the strongest correlation value of the previous two thus far but will still not provide very much value into the exit velocity.
+4. Effective Speed:
+    - A weak negative correlation. Meaning that as the effective speed of the pitch increases the exit velocity of Harper's home runs will decrease. Another very low value meaning we won't be able to draw valuable insights into the exit velocity (at this point).
+
+##### Overall Interpretation
+
+Even though the below pitch stats are all showing weak correlations to the target stat (exit velocity) it's still worth examining to understand if/where the strengths are in the data.
 
 <p align="center">
   <img src="plots/launch_speed_correlations_final1.png">
