@@ -97,7 +97,7 @@ Lets take a look at the pitches that Harper produces his most home runs from and
 
 We can also analyze which part of the of the zone Harper is hitting his home runs and again take a look at this by season.
 
-<img src="https://cdn2.vox-cdn.com/assets/4655223/zone.png" style="float: left; margin: 20px; height: 20px">
+<img width="500" height="250" src="https://cdn2.vox-cdn.com/assets/4655223/zone.png">
 
 <p align="center">
   <img width="1000" height="500" src="plots/harper_zones.png">
