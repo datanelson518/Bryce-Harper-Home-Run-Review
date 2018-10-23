@@ -8,7 +8,7 @@
 
 - [Description](#description)
 - [File Structure](#file-structure)
-- [Bryce Harper Home Run Conclusions](#hryce-harper-home-run-conclusions)
+- [Bryce Harper Home Run Conclusions](#bryce-harper-home-run-conclusions)
 
 ---
 
