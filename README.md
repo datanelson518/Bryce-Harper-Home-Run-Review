@@ -67,7 +67,7 @@ A very interesting data point in the above plot is the one outlier. On one occas
 We can also take a look at the distance of each home run that Harper hit since the 2015 season.
 
 <p align="center">
-  <img src="plots/speeds_distance.png">
+  <img width="1000" height="400" src="plots/speeds_distance.png">
 </p>
 
 ### Home Runs by Pitch Type
