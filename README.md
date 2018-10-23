@@ -1,4 +1,4 @@
-<h1 align="center">Bryce Harper Home Run Scouting Report</h1>
+<h1 align="center">Bryce Harper Home Run  Scouting Report</h1>
 
 *Jon Nelson*
 
