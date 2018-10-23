@@ -31,7 +31,7 @@ In a recent capstone project that I completed I reviewed home run data from the 
 
 #### Capstone Project
 
-To see the entirety of my capstone project copy and paste the below web browser into a web browser:
+To see the entirety of my capstone project copy and paste the below URL into a web browser
 - https://github.com/datanelson518/MLB_Home_Run_Exit_Velocity
 
 ---
