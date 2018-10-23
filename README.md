@@ -97,7 +97,7 @@ Lets take a look at the pitches that Harper produces his most home runs from and
 
 We can also analyze which part of the of the zone Harper is hitting his home runs and again take a look at this by season.
 
-<img src="https://cdn2.vox-cdn.com/assets/4655223/zone.png" style="float: left; margin: 20px; height: 100px">
+<img src="https://cdn2.vox-cdn.com/assets/4655223/zone.png" style="float: left; margin: 20px; height: 20px">
 
 <p align="center">
   <img width="1000" height="500" src="plots/harper_zones.png">
@@ -128,7 +128,7 @@ Now I am going to get a little more statistical on you and analyze Harper's corr
 - `Effective Speed`: the (actual) speed of the pitch upon the ball crossing home plate
 
 <p align="center">
-  <img src="plots/launch_speed_correlations.png">
+  <img src="plots/launch_speed_correlations_final.png">
 </p>
 
 ---
