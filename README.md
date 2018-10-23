@@ -8,10 +8,15 @@
 
 - [Description](#description)
 - [File Structure](#file-structure)
-- [Data Dictionary](#data-dictionary)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Production Modeling](#production-modeling)
-- [Conclusions and Next Steps](#Conclusions-and-next-steps)
+- [Bryce Harper Home Run Conclusions](#hryce-harper-home-run-conclusions)
+
+---
+
+## Description
+
+---
+
+In a recent capstone project that I completed I reviewed home run data from the 2015, 2016, and 2017 MLB seasons in order to analyze what was influencing the launch speeds (exit velocity) of home run hits and ultimately leading to an increase in home runs. I realized that through this project I could get even more granular in the data and review home runs by MLB divisions, leagues, teams and players. So, I decided to create a home run scouting report of the leagues best and most popular players, Bryce Harper. Using the same data from my capstone project I will analyze Harper's home run stats from the 2015, 2016 and 2017 seasons.
 
 ---
 
@@ -23,12 +28,6 @@
 - [README.md](./README.md)
 
 ---
-
-## Description
-
----
-
-In a recent capstone project that I completed I reviewed home run data from the 2015, 2016, and 2017 MLB seasons in order to analyze what was influencing the launch speeds (exit velocity) of home run hits and ultimately leading to an increase in home runs. I realized that through this project I could get even more granular in the data and review home runs by MLB divisions, leagues, teams and players. So, I decided to create a home run scouting report of the leagues best and most popular players, Bryce Harper. Using the same data from my capstone project I will analyze Harper's home run stats from the 2015, 2016 and 2017 seasons.
 
 #### Capstone Project
 
@@ -68,7 +67,7 @@ A very interesting data point in the above plot is the one outlier. On one occas
 We can also take a look at the distance of each home run that Harper hit since the 2015 season.
 
 <p align="center">
-  <img width="700" height="700" src="plots/speeds_distance.png">
+  <img width="1000" height="700" src="plots/speeds_distance.png">
 </p>
 
 ### Home Runs by Pitch Type
