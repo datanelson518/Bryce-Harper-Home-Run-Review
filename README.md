@@ -128,7 +128,7 @@ Now I am going to get a little more statistical on you and analyze Harper's corr
 - `Effective Speed`: the (actual) speed of the pitch upon the ball crossing home plate
 
 <p align="center">
-  <img width="1000" height="500" src="plots/launch_speed_correlations.png">
+  <img src="plots/launch_speed_correlations.png">
 </p>
 
 ---
